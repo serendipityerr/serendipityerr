@@ -1,4 +1,7 @@
 ## Hi there 👋
+Hola! My ![Visitor Count](https://profile-counter.glitch.me/serendipityerr/count.svg)-th visitors!💕
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=compact)](https://github.com/serendipityerr/github-readme-stats)
 
 <!--
 **serendipityerr/serendipityerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
