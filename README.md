@@ -1,13 +1,10 @@
 ## Hola! 👋
-My ![Visitor Count](https://profile-counter.glitch.me/serendipityerr/count.svg)-th visitors!💕
+<!--My ![Visitor Count](https://profile-counter.glitch.me/serendipityerr/count.svg)-th visitors!💕-->
 
-
-<!--<div align="center"> 
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=donut)](https://github.com/serendipityerr/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=donut)](https://github.com/serendipityerr/github-readme-stats)-->
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&theme=radical) 
-</div>-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&theme=radical) 
 
 
 <!--
