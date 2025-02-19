@@ -1,14 +1,16 @@
 ## Hi there 👋
 <!--Hola! My ![Visitor Count](https://profile-counter.glitch.me/serendipityerr/count.svg)-th visitors!💕-->
 
-<div align="center"><img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" ></div>
+<img src="https://raw.githubusercontent.com/Achuan-2/Achuan-2/main/assets/github-contribution-grid-snake.svg" >
 
-<div align="center"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=donut)](https://github.com/serendipityerr/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&theme=radical) 
+<!--<div align="center"> 
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=donut)](https://github.com/serendipityerr/github-readme-stats)
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&theme=radical) 
-</div>
+</div>-->
 
 
 <!--
