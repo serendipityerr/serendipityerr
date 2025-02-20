@@ -1,4 +1,4 @@
-## Hola! 👋
+## Hola! 💕👋
 <!--My ![Visitor Count](https://profile-counter.glitch.me/serendipityerr/count.svg)-th visitors!💕-->
 
 
@@ -10,9 +10,24 @@
   
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=donut)](https://github.com/serendipityerr/github-readme-stats)-->
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&theme=radical) 
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&theme=radical) -->
 
-
+<div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&hide_border=true&line_height=24&theme=radical"
+    media="(prefers-color-scheme: radical)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&hide_border=true&line_height=24&theme=radical" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=compact&hide_border=true&langs_count=8&theme=radical"
+    media="(prefers-color-scheme: radical)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=compact&hide_border=true&langs_count=8&theme=radical" />
+</picture>
+</div>
 <!--
 **serendipityerr/serendipityerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
