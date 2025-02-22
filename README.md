@@ -1,6 +1,6 @@
-<h2> Hola!<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ0ZjNtbm4zbmxuOWs0eGtpZ2xkNnlveWNianh3ZjduZGg1NDJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="35"></h2>
+<h2> Hola!💕</h2>
 <!--My ![Visitor Count](https://profile-counter.glitch.me/serendipityerr/count.svg)-th visitors!💕-->
-
+<!--<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZ0ZjNtbm4zbmxuOWs0eGtpZ2xkNnlveWNianh3ZjduZGg1NDJ2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="35">-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/serendipityerr/serendipityerr/output/github-contribution-grid-snake-dark.svg">
@@ -12,20 +12,21 @@
   
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&theme=radical) -->
 
-<div align="center">
+<div align="left">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&hide_border=true&line_height=24&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&hide_border=true&line_height=24&theme=buefy"
     media="(prefers-color-scheme: radical)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&hide_border=true&line_height=24&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=serendipityerr&show_icons=true&hide_border=true&line_height=24&theme=buefy" />
 </picture>
 <picture>
-  <source
+  <!-- <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=compact&hide_border=true&langs_count=8&theme=radical"
     media="(prefers-color-scheme: radical)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=compact&hide_border=true&langs_count=8&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serendipityerr&layout=compact&hide_border=true&langs_count=8&theme=radical" /> -->
+  <img src="./cat.gif" width="335">
 </picture>
 </div>
 <!--
