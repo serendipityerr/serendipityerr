@@ -20,7 +20,7 @@ jobs:
       run: node index.js > README.md
     - name: Debug Secret
       run: |
-        echo "Secret name: PROFILE_TOKEN"
+        echo "Secret name: secrets.PROFILE_TOKEN"
         echo "Secret length: ${#SECRET_LENGTH}"
         echo "${{ secrets.MY_PAT != '' }}"
     - name: Commit change & Push
