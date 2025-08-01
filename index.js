@@ -37,3 +37,5 @@ const readme = `\
   <img src="./cat.gif" width="335">
 </picture>
 </div>
+`
+console.log(readme)
